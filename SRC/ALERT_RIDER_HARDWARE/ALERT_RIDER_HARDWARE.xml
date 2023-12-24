@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>C:\Users\user\Documents\kicad6\KICAD 6.0.0\contractual_projects\ALERT_RIDER\ALERT_RIDER_HARDWARE\SRC\ALERT_RIDER_HARDWARE\ALERT_RIDER_HARDWARE.kicad_sch</source>
-    <date>12/4/2023 10:39:39 PM</date>
-    <tool>Eeschema 7.0.2</tool>
+    <source>D:\kicad6\KICAD 6.0.0\contractual_projects\ALERT_RIDER\ALERT_RIDER_HARDWARE\SRC\ALERT_RIDER_HARDWARE\ALERT_RIDER_HARDWARE.kicad_sch</source>
+    <date>21/12/2023 22:46:18</date>
+    <tool>Eeschema 7.0.5</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
@@ -734,50 +734,6 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d26d535a-4efd-4bd6-a394-a43912f526bb</tstamps>
     </comp>
-    <comp ref="C11">
-      <value>22p</value>
-      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
-      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="Sheetname" value="STM32F103C8_MCU"/>
-      <property name="Sheetfile" value="STM32F103C8_MCU.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
-      <property name="ki_keywords" value="capacitor cap"/>
-      <sheetpath names="/STM32F103C8_MCU/" tstamps="/d867153f-866e-4815-8450-e9b125a4b7ea/"/>
-      <tstamps>a24763f3-33b1-4a2b-8541-f3212cd1e7a9</tstamps>
-    </comp>
-    <comp ref="C12">
-      <value>22p</value>
-      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
-      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="Sheetname" value="STM32F103C8_MCU"/>
-      <property name="Sheetfile" value="STM32F103C8_MCU.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
-      <property name="ki_keywords" value="capacitor cap"/>
-      <sheetpath names="/STM32F103C8_MCU/" tstamps="/d867153f-866e-4815-8450-e9b125a4b7ea/"/>
-      <tstamps>e1e0cdf7-545b-4132-a74d-31078c7d570a</tstamps>
-    </comp>
-    <comp ref="C13">
-      <value>22p</value>
-      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
-      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="Sheetname" value="STM32F103C8_MCU"/>
-      <property name="Sheetfile" value="STM32F103C8_MCU.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
-      <property name="ki_keywords" value="capacitor cap"/>
-      <sheetpath names="/STM32F103C8_MCU/" tstamps="/d867153f-866e-4815-8450-e9b125a4b7ea/"/>
-      <tstamps>962f89dc-5ed9-4d98-a26d-52772443eebe</tstamps>
-    </comp>
-    <comp ref="C14">
-      <value>22p</value>
-      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
-      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="Sheetname" value="STM32F103C8_MCU"/>
-      <property name="Sheetfile" value="STM32F103C8_MCU.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
-      <property name="ki_keywords" value="capacitor cap"/>
-      <sheetpath names="/STM32F103C8_MCU/" tstamps="/d867153f-866e-4815-8450-e9b125a4b7ea/"/>
-      <tstamps>d5b45826-30f1-483a-976c-f95d7e5cbb28</tstamps>
-    </comp>
     <comp ref="C15">
       <value>100n</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
@@ -913,17 +869,6 @@
       <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/STM32F103C8_MCU/" tstamps="/d867153f-866e-4815-8450-e9b125a4b7ea/"/>
       <tstamps>53a76fa6-98dd-4931-8f6b-ebbbfa082a8a</tstamps>
-    </comp>
-    <comp ref="R7">
-      <value>1M</value>
-      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
-      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
-      <property name="Sheetname" value="STM32F103C8_MCU"/>
-      <property name="Sheetfile" value="STM32F103C8_MCU.kicad_sch"/>
-      <property name="ki_description" value="Resistor, US symbol"/>
-      <property name="ki_keywords" value="R res resistor"/>
-      <sheetpath names="/STM32F103C8_MCU/" tstamps="/d867153f-866e-4815-8450-e9b125a4b7ea/"/>
-      <tstamps>2c6c5aaf-2567-46c7-9cd9-017e72149b04</tstamps>
     </comp>
     <comp ref="R8">
       <value>100K</value>
@@ -1095,28 +1040,6 @@
       <property name="ki_keywords" value="display LED 7-segment"/>
       <sheetpath names="/STM32F103C8_MCU/" tstamps="/d867153f-866e-4815-8450-e9b125a4b7ea/"/>
       <tstamps>bd9b9021-1e81-4dc0-a8bb-c67658a6af80</tstamps>
-    </comp>
-    <comp ref="Y1">
-      <value>8MHz</value>
-      <footprint>Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm</footprint>
-      <libsource lib="Device" part="Crystal_GND24" description="Four pin crystal, GND on pins 2 and 4"/>
-      <property name="Sheetname" value="STM32F103C8_MCU"/>
-      <property name="Sheetfile" value="STM32F103C8_MCU.kicad_sch"/>
-      <property name="ki_description" value="Four pin crystal, GND on pins 2 and 4"/>
-      <property name="ki_keywords" value="quartz ceramic resonator oscillator"/>
-      <sheetpath names="/STM32F103C8_MCU/" tstamps="/d867153f-866e-4815-8450-e9b125a4b7ea/"/>
-      <tstamps>39034b40-e0e2-4dae-8aa3-3dde9bccaf46</tstamps>
-    </comp>
-    <comp ref="Y2">
-      <value>32.678KHz</value>
-      <footprint>Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm</footprint>
-      <libsource lib="Device" part="Crystal" description="Two pin crystal"/>
-      <property name="Sheetname" value="STM32F103C8_MCU"/>
-      <property name="Sheetfile" value="STM32F103C8_MCU.kicad_sch"/>
-      <property name="ki_description" value="Two pin crystal"/>
-      <property name="ki_keywords" value="quartz ceramic resonator oscillator"/>
-      <sheetpath names="/STM32F103C8_MCU/" tstamps="/d867153f-866e-4815-8450-e9b125a4b7ea/"/>
-      <tstamps>4437b953-2a92-4d31-bace-053a8fee4d4b</tstamps>
     </comp>
     <comp ref="C35">
       <value>4.7u</value>
@@ -1904,40 +1827,6 @@
         <pin num="2" name="" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="Device" part="Crystal">
-      <description>Two pin crystal</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>Crystal*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">Y</field>
-        <field name="Value">Crystal</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="1" type="passive"/>
-        <pin num="2" name="2" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Device" part="Crystal_GND24">
-      <description>Four pin crystal, GND on pins 2 and 4</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>Crystal*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">Y</field>
-        <field name="Value">Crystal_GND24</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="1" type="passive"/>
-        <pin num="2" name="2" type="passive"/>
-        <pin num="3" name="3" type="passive"/>
-        <pin num="4" name="4" type="passive"/>
-      </pins>
-    </libpart>
     <libpart lib="Device" part="D_Schottky">
       <description>Schottky diode</description>
       <docs>~</docs>
@@ -2432,7 +2321,7 @@
       <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Display_Character.kicad_sym</uri>
     </library>
     <library logical="GCL_Integrated-Circuits">
-      <uri>C:/Users/user/Documents/kicad6/KICAD 6.0.0/K6_ ON COMP REPOSITORY/greencharge-kicad-library/greencharge-symbols/GCL_Integrated-Circuits.kicad_sym</uri>
+      <uri>C:/Users/Ujuzi Labs/Documents/kicad_projects/K6_ ON COMP REPOSITORY/greencharge-kicad-library/greencharge-symbols/GCL_Integrated-Circuits.kicad_sym</uri>
     </library>
     <library logical="Jumper">
       <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Jumper.kicad_sym</uri>
@@ -2622,26 +2511,16 @@
       <node ref="U2" pin="34" pinfunction="PA13" pintype="bidirectional"/>
     </net>
     <net code="26" name="/STM32F103C8_MCU/xtal_1">
-      <node ref="C13" pin="2" pintype="passive"/>
       <node ref="U2" pin="3" pinfunction="PC14" pintype="bidirectional"/>
-      <node ref="Y2" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="27" name="/STM32F103C8_MCU/xtal_2">
-      <node ref="C14" pin="2" pintype="passive"/>
       <node ref="U2" pin="4" pinfunction="PC15" pintype="bidirectional"/>
-      <node ref="Y2" pin="1" pinfunction="1" pintype="passive"/>
     </net>
     <net code="28" name="/STM32F103C8_MCU/xtal_in">
-      <node ref="C11" pin="2" pintype="passive"/>
-      <node ref="R7" pin="1" pintype="passive"/>
       <node ref="U2" pin="5" pinfunction="PD0" pintype="input"/>
-      <node ref="Y1" pin="3" pinfunction="3" pintype="passive"/>
     </net>
     <net code="29" name="/STM32F103C8_MCU/xtal_out">
-      <node ref="C12" pin="2" pintype="passive"/>
-      <node ref="R7" pin="2" pintype="passive"/>
       <node ref="U2" pin="6" pinfunction="PD1" pintype="input"/>
-      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
     </net>
     <net code="30" name="/SUPERVISOR_CHIP_SMART_BUTTON_MAX16150/INT_SIG_ACTIVE_LOW">
       <node ref="JP3" pin="3" pinfunction="B" pintype="passive"/>
@@ -2671,10 +2550,6 @@
     </net>
     <net code="36" name="GND">
       <node ref="C10" pin="2" pintype="passive"/>
-      <node ref="C11" pin="1" pintype="passive"/>
-      <node ref="C12" pin="1" pintype="passive"/>
-      <node ref="C13" pin="1" pintype="passive"/>
-      <node ref="C14" pin="1" pintype="passive"/>
       <node ref="C15" pin="2" pintype="passive"/>
       <node ref="C16" pin="2" pintype="passive"/>
       <node ref="C17" pin="2" pintype="passive"/>
@@ -2751,8 +2626,6 @@
       <node ref="U5" pin="14" pinfunction="GND" pintype="power_in"/>
       <node ref="U5" pin="23" pinfunction="GND" pintype="power_in"/>
       <node ref="U7" pin="5" pinfunction="VSS" pintype="power_in"/>
-      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
-      <node ref="Y1" pin="4" pinfunction="4" pintype="passive"/>
     </net>
     <net code="37" name="Net-(AE1-A)">
       <node ref="AE1" pin="1" pinfunction="A" pintype="input"/>

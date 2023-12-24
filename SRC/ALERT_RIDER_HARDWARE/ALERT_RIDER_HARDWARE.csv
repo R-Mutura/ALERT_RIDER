@@ -1,64 +1,71 @@
-Reference(s),Value,Footprint,MPN,Vendor,Qty
-AE1,Antenna_Shield,greencharge-footprints:antenna-W3136,W3136,LCSC,1
-"C2, C6, C35",4.7u,Capacitor_SMD:C_0603_1608Metric,CL10A475KA8NQNC,LCSC,3
-"C4, C10",100n,Capacitor_SMD:C_0603_1608Metric,0603B104K500NT,LCSC,2
-"C5, C7, C15, C16, C17, C18, C19, C20, C21, C22, C23, C24, C33",100n,Capacitor_SMD:C_0402_1005Metric,CC0402KRX7R9BB104,LCSC,13
-"C8, C26",1u,Capacitor_SMD:C_0603_1608Metric,0603B105K250NT,LCSC,2
-C9,10u,Capacitor_SMD:C_0402_1005Metric,CL05A106MQ5NUNC,LCSC,1
-"C11, C12, C13, C14",22p,Capacitor_SMD:C_0402_1005Metric,CC0402JRNPO9BN220,LCSC,4
-"C25, C34",22u,Capacitor_SMD:C_0603_1608Metric,CL10A226MO7JZNC,LCSC,2
-C27,3.6pF,Capacitor_SMD:C_0402_1005Metric,HGC0402G03R6C500NTEJ,LCSC,1
-"C28, C37",10u,Capacitor_SMD:C_0603_1608Metric,GRM188R6YA106MA73D,LCSC,2
-D1,LED_ARBG,MACHADA_footprints:LED_APHF1608SEEQBDZGKC,APHF1608SEEQBDZGKC,LCSC,1
-D2,LED_red,LED_SMD:LED_0402_1005Metric,SZYY0402R,LCSC,1
-D3,TPSP0502BAHTG,Package_TO_SOT_SMD:SOT-23,TPSP0502BAHTG,LCSC,1
-D4,D_Schottky,Diode_SMD:D_SMA,SS34,LCSC,1
-D5,LED_blue,LED_SMD:LED_0402_1005Metric,SZYY0402B,LCSC,1
-"D9, D10, D11",LED,LED_SMD:LED_PLCC_2835_Handsoldering,XL-2835SURC-02,LCSC,3
-"D12, D13, D14",LED,LED_SMD:LED_PLCC_2835_Handsoldering,XL-2835UYC-02,LCSC,3
-"D6, D7, D8,",LED,LED_SMD:LED_PLCC_2835_Handsoldering,XL-2835UGC-05,LCSC,3
-"F1, F2",ASMD1206-200,Fuse:Fuse_1206_3216Metric,ASMD1206-200,LCSC,2
-J1,Screw_Terminal_01x02,Connector_JST:JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal,B2B-EH-A(LF)(SN),LCSC,1
-J3,USB_C_Receptacle_USB2.0,greencharge-footprints:MC-311D_USB_C_2.0_12PIN,MC-311D,LCSC,1
-J4,THERMISTOR,Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,B2B-EH-A(LF)(SN),LCSC,1
-L1,470n,Inductor_SMD:L_1008_2520Metric,MS252012-R47M-W,LCSC,1
-"L2, L3",L_Ferrite,Inductor_SMD:L_0603_1608Metric,BLM18PG121SN1D,LCSC,2
-L4,8.2nF,Inductor_SMD:L_0402_1005Metric,MLK1005S8N2DT000,LCSC,1
-Q1,IRLML5203TRPBF,Package_TO_SOT_SMD:SOT-23,IRLML5203TRPBF,LCSC,1
-"Q2, Q7",DMP3056L-7,Package_TO_SOT_SMD:SOT-23,DMP3056L-7,LCSC,2
-"Q3, Q4, Q5",SK335N,Package_TO_SOT_SMD:SOT-23,SK335N,LCSC,3
-Q6,IRLML0100TRPBF,Package_TO_SOT_SMD:SOT-23,IRLML0100TRPBF,LCSC,1
-"R1, R2",5.1K,Resistor_SMD:R_0402_1005Metric,0402WGF5101TCE,LCSC,2
-"R3, R9, R11, R12, R19, R22, R25, R36, R37",10K,Resistor_SMD:R_0402_1005Metric,RC0402FR-0710KL,LCSC,9
-R4,10K,Resistor_SMD:R_0603_1608Metric,RC0603FR-0710KL,LCSC,1
-"R5, R10, R15, R21, R24, R31, R47",1K,Resistor_SMD:R_0402_1005Metric,RC0402FR-071KL,LCSC,7
-"R6, R8",100K,Resistor_SMD:R_0402_1005Metric,RC0402FR-07100KL,LCSC,2
-R7,1M,Resistor_SMD:R_0402_1005Metric,RC0402FR-071ML,LCSC,1
-R13,511K,Resistor_SMD:R_0603_1608Metric,RC0603FR-07511KL,LCSC,1
-R14,91K,Resistor_SMD:R_0603_1608Metric,SCR0603J91K,LCSC,1
-R16,10K,Resistor_SMD:R_0402_1005Metric,RC0402FR-0710KL,LCSC,1
-R17,1K,Resistor_SMD:R_0603_1608Metric,RC0603FR-071KL,LCSC,1
-R18,10K,Resistor_SMD:R_0603_1608Metric,RC0603FR-0710KL,LCSC,1
-"R20, R23, R26, R32, R33, R41, R42, R43, R44, R45, R46",20R,Resistor_SMD:R_0402_1005Metric,0402WGF200JTCE,LCSC,11
-R27,1K,Resistor_SMD:R_0402_1005Metric,RC0402FR-071KL,LCSC,1
-R28,69.8K,Resistor_SMD:R_0402_1005Metric,RC0402FR-0769K8L,LCSC,1
-R29,1.54K,Resistor_SMD:R_0402_1005Metric,WR04X1541FTL,LCSC,1
-R30,1.5K,Resistor_SMD:R_0402_1005Metric,RC0402FR-071K5L,LCSC,1
-R34,100R,Resistor_SMD:R_0402_1005Metric,0402WGF1000TCE,LCSC,1
-R35,2.7K,Resistor_SMD:R_0402_1005Metric,RC0402FR-072K7L,LCSC,1
-"R38, R39, R40",499R,Resistor_SMD:R_0402_1005Metric,0402WGF4990TCE,LCSC,3
-SW1,reset,greencharge-footprints:SKRPACE010,SKRPACE010,LCSC,1
-"SW2, SW6",GREEN,Button_Switch_SMD:SW_SPST_EVQQ2,HX TS5208A 250gf,LCSC,2
-SW3,YELLOW,Button_Switch_SMD:SW_SPST_EVQQ2,HX TS5208A 250gf,LCSC,1
-SW4,RED,Button_Switch_SMD:SW_SPST_EVQQ2,HX TS5208A 250gf,LCSC,1
-SW5,CHANNEL,Button_Switch_SMD:SW_SPST_EVQQ2,HX TS5208A 250gf,LCSC,1
-TH1,10K,,MF52A103F3950 (A1),LCSC,1
-U2,STM32F103C8Tx,Package_QFP:LQFP-48_7x7mm_P0.5mm,STM32F103C8T6TR,LCSC,1
-U3,TPS63802DLAR,greencharge-footprints:VREG_TPS63802DLAR,TPS63802DLAR,LCSC,1
-U4,MAX16150A,Package_TO_SOT_SMD:SOT-23-6,MAX16150A,LCSC,1
-U5,LORA-E32-915T30S,greencharge-footprints:LORA-E32-915T30S-SMD,E32-915T30S,LCSC,1
-U6,SM420561N,greencharge-footprints:SEGMENT-SLS0281FR1A1GD,SLS0281FR1A1GD,LCSC,1
-U7,MCP73833-AMI_UN,digikey-footprints:MSOP-10_W3mm,MCP73833T-AMI/UN,LCSC,1
-Y1,8MHz,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,X32258MOB4SI,LCSC,1
-Y2,32.678KHz,Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm,Q13FC1350000400,LCSC,1
-Z1,MMSZ5231B-7-F,digikey-footprints:SOD-123,MMSZ5231B-7-F,LCSC,1
+"Source:","D:\kicad6\KICAD 6.0.0\contractual_projects\ALERT_RIDER\ALERT_RIDER_HARDWARE\SRC\ALERT_RIDER_HARDWARE\ALERT_RIDER_HARDWARE.kicad_sch"
+"Date:","21/12/2023 22:46:18"
+"Tool:","Eeschema 7.0.5"
+"Generator:","C:\Program Files\KiCad\7.0\bin\scripting\plugins/bom_csv_grouped_by_value.py"
+"Component Count:","133"
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","DNP","Category","DK_Datasheet_Link","DK_Detail_Page","Description","Digi-Key_PN","Family","MANUFACTURER","MAXIMUM_PACKAGE_HEIGHT","MPN","Manufacturer","PARTREV","STANDARD","Status","VOLTAGE"
+"1","1","AE1","Antenna_Shield","Device:Antenna_Shield","greencharge-footprints:antenna-W3136","~","","","","","","","","","","","","","","",""
+"2","3","C2, C6, C35","4.7u","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","~","","","","","","","","","","","","","","",""
+"3","2","C4, C10","100n","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","~","","","","","","","","","","","","","","",""
+"4","13","C5, C7, C15, C16, C17, C18, C19, C20, C21, C22, C23, C24, C33","100n","Device:C_Small","Capacitor_SMD:C_0402_1005Metric","~","","","","","","","","","","","","","","",""
+"5","2","C8, C26","1u","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","~","","","","","","","","","","","","","","",""
+"6","1","C9","10u","Device:C_Small","Capacitor_SMD:C_0402_1005Metric","~","","","","","","","","","","","","","","",""
+"7","2","C25, C34","22u","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","~","","","","","","","","","","","","","","",""
+"8","1","C27","3.6pF","Device:C_Small","Capacitor_SMD:C_0402_1005Metric","~","","","","","","","","","","","","","","",""
+"9","2","C28, C37","10u","Device:C_Small","Capacitor_SMD:C_0603_1608Metric","~","","","","","","","","","","","","","","","35V"
+"10","1","D1","LED_ARBG","Device:LED_ARBG","MACHADA_footprints:LED_APHF1608SEEQBDZGKC","~","","","","","","","","","","APHF1608SEEQBDZGKC","","","","",""
+"11","1","D2","LED_red","Device:LED","LED_SMD:LED_0402_1005Metric","~","","","","","","","","","","","","","","",""
+"12","1","D3","TPSP0502BAHTG","Power_Protection:SP0502BAHT","Package_TO_SOT_SMD:SOT-23","http://www.littelfuse.com/~/media/files/littelfuse/technical%20resources/documents/data%20sheets/sp05xxba.pdf","","","","","","","","","","","","","","",""
+"13","1","D4","D_Schottky","Device:D_Schottky","Diode_SMD:D_SMA","~","","","","","","","","","","","","","","",""
+"14","1","D5","LED_blue","Device:LED","LED_SMD:LED_0402_1005Metric","~","","","","","","","","","","","","","","",""
+"15","9","D6, D7, D8, D9, D10, D11, D12, D13, D14","LED","Device:LED","LED_SMD:LED_PLCC_2835_Handsoldering","~","","","","","","","","","","","","","","",""
+"16","2","F1, F2","ASMD1206-200","Device:Polyfuse","Fuse:Fuse_1206_3216Metric","~","","","","","","","","","","","","","","",""
+"17","1","J1","Screw_Terminal_01x02","Connector:Screw_Terminal_01x02","Connector_JST:JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal","~","","","","","","","","","","","","","","",""
+"18","1","J3","USB_C_Receptacle_USB2.0","Connector:USB_C_Receptacle_USB2.0","greencharge-footprints:MC-311D_USB_C_2.0_12PIN","https://www.usb.org/sites/default/files/documents/usb_type-c.zip","","","","","","","","","","","","","","",""
+"19","1","J4","THERMISTOR","Connector_Generic:Conn_01x02","Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical","~","","","","","","","","","","","","","","",""
+"20","1","J8","Conn_01x06","Connector_Generic:Conn_01x06","greencharge-footprints:J-LINK_6-PIN_NEEDLE_ADAPTER","~","","","","","","","","","","","","","","",""
+"21","1","JP1","BOOT0","Jumper:Jumper_3_Open","Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels","~","","","","","","","","","","","","","","",""
+"22","1","JP2","BOOT1","Jumper:Jumper_3_Open","Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels","~","","","","","","","","","","","","","","",""
+"23","1","JP3","SolderJumper_3_Open","Jumper:SolderJumper_3_Open","Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels","~","","","","","","","","","","","","","","",""
+"24","1","L1","470n","Device:L_Small","Inductor_SMD:L_1008_2520Metric","~","","","","","","","","","","MS252012-R47M-W","","","","",""
+"25","2","L2, L3","L_Ferrite","Device:L_Ferrite","Inductor_SMD:L_0603_1608Metric","~","","","","","","","","","","","","","","",""
+"26","1","L4","8.2nF","Device:L","Inductor_SMD:L_0402_1005Metric","~","","","","","","","","","","","","","","",""
+"27","1","Q1","IRLML5203TRPBF","Device:Q_PMOS_GSD","Package_TO_SOT_SMD:SOT-23","~","","","","","","","","","","","","","","",""
+"28","2","Q2, Q7","DMP3056L-7","Device:Q_PMOS_GSD","Package_TO_SOT_SMD:SOT-23","~","","","","","","","","","","","","","","",""
+"29","3","Q3, Q4, Q5","SK335N","Device:Q_NMOS_GSD","Package_TO_SOT_SMD:SOT-23","~","","","","","","","","","","","","","","",""
+"30","1","Q6","IRLML0100TRPBF","Device:Q_NMOS_GSD","Package_TO_SOT_SMD:SOT-23","~","","","","","","","","","","","","","","",""
+"31","2","R1, R2","5.1K","Device:R_US","Resistor_SMD:R_0402_1005Metric","~","","","","","","","","","","","","","","",""
+"32","9","R3, R9, R11, R12, R19, R22, R25, R36, R37","10K","Device:R_US","Resistor_SMD:R_0402_1005Metric","~","","","","","","","","","","","","","","",""
+"33","1","R4","10K","Device:R_Small","Resistor_SMD:R_0603_1608Metric","~","","","","","","","","","","","","","","",""
+"34","7","R5, R10, R15, R21, R24, R31, R47","1K","Device:R_US","Resistor_SMD:R_0402_1005Metric","~","","","","","","","","","","","","","","",""
+"35","2","R6, R8","100K","Device:R_US","Resistor_SMD:R_0402_1005Metric","~","","","","","","","","","","","","","","",""
+"36","1","R13","511K","Device:R_Small","Resistor_SMD:R_0603_1608Metric","~","","","","","","","","","","","","","","",""
+"37","1","R14","91K","Device:R_Small","Resistor_SMD:R_0603_1608Metric","~","","","","","","","","","","","","","","",""
+"38","1","R16","10K","Device:R_Small","Resistor_SMD:R_0402_1005Metric","~","DNP","","","","","","","","","","","","","",""
+"39","1","R17","1K","Device:R_US","Resistor_SMD:R_0603_1608Metric","~","","","","","","","","","","","","","","",""
+"40","1","R18","10K","Device:R_US","Resistor_SMD:R_0603_1608Metric","~","","","","","","","","","","","","","","",""
+"41","11","R20, R23, R26, R32, R33, R41, R42, R43, R44, R45, R46","20R","Device:R_US","Resistor_SMD:R_0402_1005Metric","~","","","","","","","","","","","","","","",""
+"42","1","R27","1K","Device:R_Small","Resistor_SMD:R_0402_1005Metric","~","","","","","","","","","","","","","","",""
+"43","1","R28","69.8K","Device:R_Small","Resistor_SMD:R_0402_1005Metric","~","","","","","","","","","","","","","","",""
+"44","1","R29","1.54K","Device:R_Small","Resistor_SMD:R_0402_1005Metric","~","","","","","","","","","","","","","","",""
+"45","1","R30","1.5K","Device:R_US","Resistor_SMD:R_0402_1005Metric","~","","","","","","","","","","","","","","",""
+"46","1","R34","100R","Device:R_US","Resistor_SMD:R_0402_1005Metric","~","","","","","","","","","","","","","","",""
+"47","1","R35","2.7K","Device:R_US","Resistor_SMD:R_0402_1005Metric","~","","","","","","","","","","","","","","",""
+"48","3","R38, R39, R40","499R","Device:R_US","Resistor_SMD:R_0402_1005Metric","~","","","","","","","","","","","","","","",""
+"49","1","SW1","reset","Switch:SW_Push","greencharge-footprints:SKRPACE010","~","","","","","","","","","","","","","","",""
+"50","2","SW2, SW6","GREEN","Switch:SW_Push","Button_Switch_SMD:SW_SPST_EVQQ2","~","","","","","","","","","","EVQQ2K03W","","","","",""
+"51","1","SW3","YELLOW","Switch:SW_Push","Button_Switch_SMD:SW_SPST_EVQQ2","~","","","","","","","","","","EVQQ2K03W","","","","",""
+"52","1","SW4","RED","Switch:SW_Push","Button_Switch_SMD:SW_SPST_EVQQ2","~","","","","","","","","","","EVQQ2K03W","","","","",""
+"53","1","SW5","CHANNEL","Switch:SW_Push","Button_Switch_SMD:SW_SPST_EVQQ2","~","","","","","","","","","","EVQQ2K03W","","","","",""
+"54","1","TH1","10K","Device:Thermistor","","~","","","","","","","","","","","","","","",""
+"55","12","TP1, TP2, TP3, TP4, TP5, TP6, TP7, TP8, TP9, TP10, TP11, TP12","TestPoint","Connector:TestPoint","brilliant-kicad-library:TestPoint_Pad_D0.9mm","~","","","","","","","","","","","","","","",""
+"56","1","U2","STM32F103C8Tx","MCU_ST_STM32F1:STM32F103C8Tx","Package_QFP:LQFP-48_7x7mm_P0.5mm","http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00161566.pdf","","","","","","","","","","","","","","",""
+"57","1","U3","TPS63802DLAR","TPS63802DLAR:TPS63802DLAR","greencharge-footprints:VREG_TPS63802DLAR","","","","","","","","","Texas Instruments","1.0 mm","","","B","Manufacturer Recommendations","",""
+"58","1","U4","MAX16150A","GCL_Integrated-Circuits:MAX16150","Package_TO_SOT_SMD:SOT-23-6","","","","","","","","","","","","","","","",""
+"59","1","U5","LORA-E32-915T30S","GCL_Integrated-Circuits:LORA-E32-915T30S","greencharge-footprints:LORA-E32-915T30S-SMD","","","","","","","","","","","","","","","",""
+"60","1","U6","SM420561N","Display_Character:D148K","greencharge-footprints:SEGMENT-SLS0281FR1A1GD","","","","","","","","","","","","","","","",""
+"61","1","U7","MCP73833-AMI_UN","dk_PMIC-Battery-Chargers:MCP73833-AMI_UN","digikey-footprints:MSOP-10_W3mm","http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en027983","","Integrated Circuits (ICs)","http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en027983","/product-detail/en/microchip-technology/MCP73833-AMI-UN/MCP73833-AMI-UN-ND/1223157","IC LI-ION/LI-POLY CTRLR 10MSOP","MCP73833-AMI/UN-ND","PMIC - Battery Chargers","","","MCP73833-AMI/UN","Microchip Technology","","","Active",""
+"62","1","Z1","MMSZ5231B-7-F","dk_Diodes-Zener-Single:MMSZ5231B-7-F","digikey-footprints:SOD-123","https://www.diodes.com/assets/Datasheets/ds18010.pdf","","Discrete Semiconductor Products","https://www.diodes.com/assets/Datasheets/ds18010.pdf","/product-detail/en/diodes-incorporated/MMSZ5231B-7-F/MMSZ5231B-FDICT-ND/755506","DIODE ZENER 5.1V 500MW SOD123","MMSZ5231B-FDICT-ND","Diodes - Zener - Single","","","MMSZ5231B-7-F","Diodes Incorporated","","","Active",""
